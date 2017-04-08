@@ -3,7 +3,7 @@
 **What about GPS 1.1** 
 Part of it is the test for *markdown* file. 
 For example, I like fruits:
-* Peach
+* Banana
 * Orange
 * Pear
 * Watermelon
