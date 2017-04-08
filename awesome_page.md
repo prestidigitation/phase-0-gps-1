@@ -15,3 +15,5 @@ puts "What's your name?"
 answer = gets.chomp
 ```
 I use [google](https://www.google.com/) often when I have questions about coding.
+
+![GPS1.1](GPS.1.1)
